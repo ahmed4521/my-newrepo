@@ -2,3 +2,5 @@ the first line the file
 the second line - c2
 the third line - c2
 the fourth line - c2
+the fifth line - c3
+the sixth line - c3
